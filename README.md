@@ -19,4 +19,3 @@ Projeto Python para consumir a API pública de LLM da HuggingFace.
 - src/api_client.py: Cliente para a API HuggingFace
 - src/main.py: Interface de linha de comando
 - tests/: Testes automatizados
-# HuggingFaceAPIPython3
