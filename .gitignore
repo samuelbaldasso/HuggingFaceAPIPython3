@@ -1,0 +1,14 @@
+# Ignorar arquivos e pastas comuns de Python e HuggingFace
+venv/
+__pycache__/
+*.pyc
+.env
+*.safetensors
+*.bin
+*.pt
+.cache/
+output/
+# HuggingFace model cache
+huggingface/
+# VSCode
+.vscode/
